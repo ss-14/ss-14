@@ -2,14 +2,14 @@
 
 # Hi, I'm Sahith 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Math+%26+Scientific+Computing+%40+ABV-IIITM;Competitive+Programmer;ML+%2B+Mobile+Dev+Enthusiast;SIH+2026+Second-Round+Shortlist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Math+%26+Scientific+Computing+%40+ABV-IIITM;Competitive+Programmer;Backend+%26+ML%2FAI+Engineer;SIH+2026+Second-Round+Shortlist)](https://git.io/typing-svg)
 
 </div>
 
 🎓 Mathematics & Scientific Computing undergrad at **ABV-IIITM Gwalior** (2025–2029)
 💻 Competitive programmer · 200+ problems across LeetCode & Codeforces
 🚀 Smart India Hackathon 2026 — second-round shortlist (Team NeuraSync)
-📊 Into ML, mobile dev and building things that solve real problems
+📊 Into backend development, ML/AI and building things that solve real problems
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## 🌟 Featured Projects
 
-- **🏠 House Price Predictor** — Full-stack mobile app: a scikit-learn model trained on the California Housing dataset, served through a FastAPI backend to a Flutter app. `Python` `Flutter` `FastAPI` `scikit-learn`
+- **🏠 House Price Predictor** — Full-stack ML app: a scikit-learn model trained on the California Housing dataset, served through a FastAPI backend to a mobile client. `Python` `FastAPI` `scikit-learn`
 - **🚦 Quantum-Inspired Traffic Route Optimization** *(SIH 2026, Team NeuraSync)* — Metaheuristic QPSO-based route optimizer with an OpenStreetMap traffic graph, constraints engine, SUMO simulation and a web dashboard. `C++` `SUMO` `Docker`
 - **📱 Smart Attendance System** — Android app that kills proxy attendance: time-limited QR codes from teachers, fingerprint verification before scanning, Firebase cloud records and analytics reports. `Kotlin` `Firebase` `ML Kit`
 - **📈 PE Impact Analysis** — Research on whether PE performance influences other subject scores, using Pearson correlation, group comparison and a custom impact score, with a planned dashboard for insights. `SQL` `Data Analysis`
@@ -102,6 +102,6 @@
 
 <div align="center">
 
-⚡ *Currently exploring: machine learning, optimization problems and mobile dev.*
+⚡ *Currently exploring: backend systems, machine learning and optimization problems.*
 
 </div>
