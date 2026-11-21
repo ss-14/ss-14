@@ -92,7 +92,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--sahith--reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-sahith-reddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--sahith--reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-sahith-reddy-949b56391)
 [![LeetCode](https://img.shields.io/badge/LeetCode-bittu__27-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/bittu_27)
 [![Codeforces](https://img.shields.io/badge/Codeforces-ssahith-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ssahith)
 
