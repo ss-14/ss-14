@@ -1,77 +1,106 @@
 <div align="center">
 
-# Hey, I'm Sahith
+# Hi, I'm Sahith 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+development+%2F+Machine+learning;Python+%C2%B7+FastAPI+%C2%B7+scikit-learn;From+datasets+to+APIs" alt="Backend development / Machine learning. Python, FastAPI, scikit-learn. From datasets to APIs." />
-
-**Mathematics & Scientific Computing · ABV-IIITM Gwalior**
-
-[Projects](#projects) &nbsp; / &nbsp; [Toolbox](#toolbox) &nbsp; / &nbsp; [Activity](#activity) &nbsp; / &nbsp; [Elsewhere](#elsewhere)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Math+%26+Scientific+Computing+%40+ABV-IIITM;Competitive+Programmer;Backend+%26+ML%2FAI+Engineer)](https://git.io/typing-svg)
 
 </div>
 
-I'm interested in the part where a model becomes something an app can use. Backend development and machine learning are where I'm spending my time.
+🎓 Mathematics & Scientific Computing undergrad at **ABV-IIITM Gwalior** (2025–2029)
+💻 Competitive programmer · 200+ problems across LeetCode & Codeforces
+📊 Into backend development, ML/AI and building things that solve real problems
 
-## Toolbox
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,fastapi,firebase,git&perline=6" alt="Python, C++, Java, FastAPI, Firebase and Git" />
-</p>
+## 🛠️ Tech Stack
 
-**Languages** &nbsp; Python · C++ · Java · SQL  
-**Backend & data** &nbsp; FastAPI · scikit-learn · NumPy · Pandas  
-**Tools** &nbsp; Firebase · Git
+<div align="center">
 
-## Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Click a project to see what it does.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<details open>
-<summary><b>House Price Predictor</b></summary>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Built a house-price prediction app using the California Housing dataset. A scikit-learn model runs behind a FastAPI backend that serves predictions to a mobile app.
+</div>
 
-`Python` `FastAPI` `scikit-learn`
+---
 
-</details>
+## Featured Projects
 
-<details>
-<summary><b>Traffic Route Optimization</b></summary>
+- **House Price Predictor** — Full-stack ML app: a scikit-learn model trained on the California Housing dataset, served through a FastAPI backend to a mobile client. `Python` `FastAPI` `scikit-learn`
+- **Quantum-Inspired Traffic Route Optimization** *(SIH 2026, Team NeuraSync)* — Metaheuristic QPSO-based route optimizer with an OpenStreetMap traffic graph, constraints engine, SUMO simulation and a web dashboard. `C++` `SUMO` `Docker`
+- **Smart Attendance System** — Android app that kills proxy attendance: time-limited QR codes from teachers, fingerprint verification before scanning, Firebase cloud records and analytics reports. `Kotlin` `Firebase` `ML Kit`
+- **PE Impact Analysis** — Research on whether PE performance influences other subject scores, using Pearson correlation, group comparison and a custom impact score, with a planned dashboard for insights. `SQL` `Data Analysis`
 
-Designed a QPSO-based route optimization system with Team NeuraSync. The design uses an OpenStreetMap traffic graph, a constraints engine, SUMO simulation and a web dashboard.
+---
 
-`C++` `OpenStreetMap` `SUMO` `Docker`
+## 📊 GitHub Stats
 
-</details>
+<div align="center">
 
-<details>
-<summary><b>Smart Attendance System</b></summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ss-14&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss-14&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-Designed a course project where teachers generate time-limited QR codes and students verify their fingerprint before scanning. Firebase attendance records and reports are planned parts of the system.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ss-14&theme=tokyonight&hide_border=true" height="165"/>
 
-`Java/Kotlin` `Firebase`
+</div>
 
-</details>
+## 📈 Activity Graph
 
-<details>
-<summary><b>PE Impact Analysis</b></summary>
+<div align="center">
 
-A research project looking at the relationship between Physical Education marks and other subject scores. The analysis design includes Pearson correlation, comparisons between PE score groups and student feedback. A SQL-backed data pipeline and dashboard are planned.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ss-14&theme=tokyo-night&hide_border=true"/>
 
-</details>
+</div>
 
-## Activity
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ss-14&bg_color=0d1117&color=8b949e&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true" alt="Recent GitHub contribution activity for ss-14" width="100%" />
-
-### A snake through my contributions
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake.svg" />
-  <img alt="Animated GitHub contribution grid" src="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake-dark.svg"/>
 </picture>
 
-## Elsewhere
+</div>
 
-[LeetCode](https://leetcode.com/bittu_27) &nbsp; / &nbsp; [Codeforces](https://codeforces.com/profile/ssahith) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/m-sahith-reddy-949b56391)
+---
+
+## 💻 Competitive Programming
+
+- **LeetCode:** rating 1480 (contest) · [bittu_27](https://leetcode.com/bittu_27)
+- **Codeforces:** max rating 995 · [ssahith](https://codeforces.com/profile/ssahith)
+- 200+ problems solved across both
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--sahith--reddy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-sahith-reddy-949b56391)
+[![LeetCode](https://img.shields.io/badge/LeetCode-bittu__27-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/bittu_27)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ssahith-red?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ssahith)
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ *Currently exploring: backend systems, machine learning and optimization problems.*
+
+</div>
