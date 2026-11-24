@@ -44,8 +44,8 @@
 
 | Platform | Handle | Standing |
 |:--|:--|:--|
-| Codeforces | [ssahith](https://codeforces.com/profile/ssahith) | rating 918, max 995 |
-| LeetCode | [bittu_27](https://leetcode.com/bittu_27) | contest rating 1842 |
+| Codeforces | [ssahith](https://codeforces.com/profile/ssahith) | Newbie, rating 918, max 995 |
+| LeetCode | [bittu_27](https://leetcode.com/bittu_27) | contest rating 1480 |
 
 Main language: **C++** and **Python**.
 
@@ -71,11 +71,11 @@ A regression model trained on the California Housing dataset, served through a F
 
 <details>
 <summary><h3>Quantum-Inspired Traffic Route Optimization</h3>
-QPSO-based route optimizer with a SUMO simulation</summary>
+QPSO-based route optimizer with a SUMO simulation, almost fully built</summary>
 
 **What's inside**
 
-Metaheuristic QPSO-based route optimizer with an OpenStreetMap traffic graph, a constraints engine, SUMO simulation and a web dashboard.
+Metaheuristic QPSO-based route optimizer with an OpenStreetMap traffic graph, a constraints engine, SUMO simulation and a web dashboard. Almost fully built.
 
 `C++` `SUMO` `Docker`
 
@@ -142,9 +142,12 @@ Pearson correlation, group comparison and a custom impact score on student data,
 
 <div align="center">
 
-| [Codeforces](https://codeforces.com/profile/ssahith) | [LeetCode](https://leetcode.com/bittu_27) |
-|:---:|:---:|
-| max 995 | rating 1842, top 15k globally |
+| Platform | Handle | Standing |
+|:--|:--|:--|
+| Codeforces | [ssahith](https://codeforces.com/profile/ssahith) | **Newbie** · rating 918 · max 995 · 107 solved |
+| LeetCode | [bittu_27](https://leetcode.com/bittu_27) | contest rating **1480** · 106 solved |
+
+**200+ problems solved across both** · Main languages: C++ and Python
 
 </div>
 
@@ -160,6 +163,14 @@ Pearson correlation, group comparison and a custom impact score on student data,
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ss-14&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ss-14&theme=tokyo-night&hide_border=true"/>
+
+Watch a snake eat my commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ss-14/ss-14/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
