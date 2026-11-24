@@ -45,7 +45,7 @@
 | Platform | Handle | Standing |
 |:--|:--|:--|
 | Codeforces | [ssahith](https://codeforces.com/profile/ssahith) | rating 918, max 995 |
-| LeetCode | [bittu_27](https://leetcode.com/bittu_27) | active |
+| LeetCode | [bittu_27](https://leetcode.com/bittu_27) | contest rating 1842 |
 
 Main language: **C++** and **Python**.
 
@@ -144,7 +144,7 @@ Pearson correlation, group comparison and a custom impact score on student data,
 
 | [Codeforces](https://codeforces.com/profile/ssahith) | [LeetCode](https://leetcode.com/bittu_27) |
 |:---:|:---:|
-| max 995 | active |
+| max 995 | rating 1842, top 15k globally |
 
 </div>
 
